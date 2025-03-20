@@ -118,5 +118,6 @@ India stands at a pivotal moment in the global AI landscape. With its vast talen
 ## 8. Conclusion
 SeekGPT represents a bold vision for India's AI future. By building a collaborative ecosystem, developing a robust foundational model, and promoting ethical AI practices, India can become a global leader in AI innovation. The success of SeekGPT will depend on the collective efforts of the Indian AI community, working together to realize this ambitious vision.
 
+To contribute please read [Contribution Guidelines](contribution-guidelines.md)
 
 Date Created: 20/03/2025 Modified: 20/03/2025   by [@sanjibnarzary](https://github.com/sanjibnarzary)
