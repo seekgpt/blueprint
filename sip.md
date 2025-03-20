@@ -35,7 +35,7 @@ The SIP process is applicable to proposals that:
 
 * **Proposal Submission:**
     * Researchers or community members submit a detailed SIP document outlining their proposal, motivation, and implementation plan.
-    * The SIP document should adhere to a predefined template (see Section 6).
+    * The SIP document should adhere to a predefined template (see Section 5).
     * Submissions are made through the SeekGPT GitHub repository or a designated online platform.
 * **Initial Review:**
     * The SeekGPT core team conducts an initial review to ensure the SIP document is complete and meets the scope criteria.
