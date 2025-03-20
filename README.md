@@ -62,10 +62,10 @@ Societal Impact and Integration:
 ## 1. Introduction
 India stands at a pivotal moment in the global AI landscape. With its vast talent pool, diverse cultural heritage, and growing technological infrastructure, India has the potential to become a leader in AI development. SeekGPT is a vision to harness this potential and build a foundational AI model that reflects India's unique strengths and contributes to the advancement of humanity.
 ## 2. The Need for an Indian AI Model
-Cultural Relevance: Existing AI models often lack understanding of the linguistic and cultural nuances of India, leading to biased and irrelevant outputs.
-Data Sovereignty: By developing its own AI model, India can ensure data sovereignty and control over its technological destiny.
-Societal Impact: A locally developed AI model can be tailored to address the specific challenges and needs of Indian society.
-Multilingual requirement: India has many official languages, and many more unofficial ones. A model must be able to handle all of them.
+- Cultural Relevance: Existing AI models often lack understanding of the linguistic and cultural nuances of India, leading to biased and irrelevant outputs.
+- Data Sovereignty: By developing its own AI model, India can ensure data sovereignty and control over its technological destiny.
+- Societal Impact: A locally developed AI model can be tailored to address the specific challenges and needs of Indian society.
+- Multilingual requirement: India has many official languages, and many more unofficial ones. A model must be able to handle all of them.
 ## 3. SeekGPT's Technical Architecture
 - Transformer-Based Architecture: SeekGPT will be built on a transformer-based architecture, leveraging the latest advancements in natural language processing and multimodal AI.
 - Scalable and Distributed Training: The model will be trained on a distributed computing infrastructure, enabling efficient processing of large datasets.
