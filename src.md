@@ -34,7 +34,7 @@ The SRC process is applicable to research findings that:
 
 * **Proposal Submission:**
     * Researchers submit a detailed SRC document outlining their research findings, methodology, and proposed impact on SeekGPT.
-    * The SRC document should adhere to a predefined template (see Section 6).
+    * The SRC document should adhere to a predefined template (see Section 5).
     * Submissions are made through the SeekGPT GitHub repository or a designated online platform.
 * **Initial Review:**
     * The SeekGPT core team conducts an initial review to ensure the SRC document is complete and meets the scope criteria.
