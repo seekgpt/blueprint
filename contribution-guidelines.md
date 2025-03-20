@@ -176,3 +176,5 @@ SeekGPT welcomes contributions from a wide range of individuals and organization
 * Researchers will be recognized, and properly thanked within the community.
 
 We look forward to your contributions and collaboration in building SeekGPT, India's foundational AI model!
+
+To contribute in to models development consider creating a [SeekGPT Improvement Proposal](sip.md) and then inclusion in to SeekGPT model [SeekGPT Request for Comment](src.md)
